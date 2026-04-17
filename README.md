@@ -1,9 +1,3 @@
-# Integrantes
-- Marcelo Godoy
-- Pablo Muñoz
-- Héctor Gallardo
-- Ricardo Avaca
-
 # Descripción
 Proyecto desarrollado, como prueba de concepto, para la asignatura Sistemas Distribuidos de la Universidad de Santiago de Chile, a partir de una arquitectura de microservicios. 
 Las historias de usuario desarrolladas, que abarcan las principales funcionalidades de una plataforma de streaming que son el streaming de video y el chat, son:
